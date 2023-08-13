@@ -71,6 +71,6 @@ Building the docs site: `npm run deploy:docs`
 
 Publishing to npm: `npm run release`
 
-### License
+### License .1
 
 [MIT](https://github.com/jdan/98.css/blob/main/LICENSE)
