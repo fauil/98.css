@@ -13,8 +13,6 @@ Be sure to check out [XP.css](https://botoxparty.github.io/XP.css/) and [7.css](
 
 ### Installation / Usage
 
-The easiest way to use 98.css is to import it from [unpkg](https://unpkg.com/).
-
 ```html
 <!DOCTYPE html>
 <html>
