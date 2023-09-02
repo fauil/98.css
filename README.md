@@ -8,9 +8,6 @@
 
 Be sure to check out [XP.css](https://botoxparty.github.io/XP.css/) and [7.css](https://khang-nd.github.io/7.css/) as well.
 
-### Installation / Usage
-
-```html
 <!DOCTYPE html>
 <html>
 <head>
